@@ -1,0 +1,9 @@
+[tool]
+[tool.poetry]
+authors = ["Drew Snow <quizlet.extension@gmail.com>"]
+name = "root"
+version = "0.0.1"
+[tool.poetry.dependencies]
+colorama = "*"
+nbt = "*"
+python = "*"
